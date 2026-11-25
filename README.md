@@ -1,1 +1,1 @@
-# Minor-Project-1-4Bit-Adder
+- Design and Simulation of a 4-bit CMOS Adder Using Sky130 PDK, Xschem, Ngspice and Magic.
